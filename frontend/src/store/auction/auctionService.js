@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8000/api/v1";
+const API_URL = "http://localhost:3000/api/v1";
 
 const createAuction = async (data) => {
   //console.log("data..... create auction ........", data);
